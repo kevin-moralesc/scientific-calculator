@@ -59,3 +59,4 @@ scientific-calculator/
 ## License
 
 MIT
+Scientific calculator improvements.
